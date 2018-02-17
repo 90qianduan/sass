@@ -5,4 +5,5 @@
 * [使用Sass](chapter1.md)
   * [Rack/Rails/Merb Plugin](chapter1/rackrailsmerb-plugin.md)
   * [缓存 \(Caching\)](chapter1/huan-cun-caching.md)
+  * [配置选项 \(Options\)](chapter1/pei-zhi-xuanxiang-options.md)
 
